@@ -8,12 +8,12 @@ class HomePage extends StatefulWidget {
 }
 
 class _HomePageState extends State<HomePage> {
+  final heightController = TextEditingController();
+  final weightController = TextEditingController();
+  String results = " ";
+
   @override
   Widget build(BuildContext context) {
-    final heightController = TextEditingController();
-    final weightController = TextEditingController();
-    String results = " ";
-
     String bmiString(double bmi) {
       if (bmi <= 20) {
         return 'Thin';

@@ -38,3 +38,8 @@ The student should learn how to turn the statless widget into a statful widget, 
 13. Move results variable to the top 
 14. No result!
 15. Convert to a stateful widget 
+16. move all the variables to the class not the build 
+17. Set state in on pressed 
+18. Move Text controllers back in the build so they reset everytime
+
+    
