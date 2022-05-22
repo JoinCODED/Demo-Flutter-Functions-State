@@ -12,14 +12,17 @@ The student should learn how to turn the statless widget into a statful widget, 
 
 ### Part 1 Dart-functions: 
 1. Create a dart file and create a main function
-2. Print 'hello Zainab', 'Hello Ahmad' 
+2. Print 'hello World'
 3. Create another function that prints 'hello world'
 4. Call the function
-5. Modify the function so it takes an arguments and prints it 
-6. Named argument: wrap arguments in a set of curly braces
-7. Add deafult value 
-8. Remove default values and add requried 
-9. Explain return values 
+5. Modify the function so it takes an arguments and prints it `Terms: parameters internal and arguments external`
+6. Positional arguments => full name example, if wrong position WRONG NAME!
+7. We need to label arguments so => NAMED AGRUMENTS!!! WITH REQUIRED
+8. Named argument: wrap arguments in a set of curly braces
+9. Add deafult value 
+10. Remove default values and add requried 
+11. Return is the last command in the function 
+12. Explain return values 
 
 
 ### Part 2: BMI calculator 
@@ -43,3 +46,10 @@ The student should learn how to turn the statless widget into a statful widget, 
 18. Move Text controllers back in the build so they reset everytime
 
     
+### Notes :
+Functions is making our computer memorize a procedure 
+Slow down on scope of variables 
+
+
+
+
