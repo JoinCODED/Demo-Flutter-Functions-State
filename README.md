@@ -36,14 +36,16 @@ The student should learn how to turn the statless widget into a statful widget, 
 8. Add if statemnts 
 9. Place the if in a function 
 10. Call the function 
-` String bmiString(double bmi) {
+```dart
+String bmiString(double bmi) {
     if (bmi < 20){
       return "Under wieght";}
     else if (bmi < 25){
       return "Good";}
     else{
       return "Over wieght";}
-  }`
+  }
+  ```
 10. Create a variable called results and initilize it 
 11. Assign in it the button and print it 
 12. Add a Text widget to show the results in
