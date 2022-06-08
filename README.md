@@ -20,7 +20,6 @@ The student should learn how to turn the statless widget into a statful widget, 
 7. We need to label arguments so => NAMED AGRUMENTS!!! WITH REQUIRED
 8. Named argument: wrap arguments in a set of curly braces
 9. Add deafult value 
-10. Remove default values and add requried 
 11. Return is the last command in the function 
 12. Explain return values 
 
